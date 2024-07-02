@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|solutionrelative:Vehiculo\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|solutionrelative:Vehiculo\\Form1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\MySQLConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC43CC53-1130-4B3E-AEBB-9EBB612B43FB}|Vehiculo\\Vehiculo.vcxproj|solutionrelative:Vehiculo\\MySQLConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MySQLConnector.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\MySQLConnector.h",
+              "RelativeDocumentMoniker": "Vehiculo\\MySQLConnector.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\MySQLConnector.h",
+              "RelativeToolTip": "Vehiculo\\MySQLConnector.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T18:07:48.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.h",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h",
+              "RelativeDocumentMoniker": "Vehiculo\\Form1.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h",
+              "RelativeToolTip": "Vehiculo\\Form1.h",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAqwFMBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T18:07:48.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.h [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h",
+              "RelativeDocumentMoniker": "Vehiculo\\Form1.h",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Escritorio\\Vehiculo\\Vehiculo\\Vehiculo\\Form1.h [Dise\u00F1o]",
+              "RelativeToolTip": "Vehiculo\\Form1.h [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-08T18:07:48.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

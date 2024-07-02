@@ -1,0 +1,8 @@
+C:\Users\sergi\source\repos\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.AssemblyReference.cache
+C:\Users\sergi\source\repos\Vehiculo\Vehiculo\x64\Debug\Vehiculo.Form1.resources
+C:\Users\sergi\source\repos\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.GenerateResource.cache
+C:\Users\sergi\source\repos\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.CopyComplete
+C:\Users\tello\OneDrive\Escritorio\Vehiculo\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.AssemblyReference.cache
+C:\Users\tello\OneDrive\Escritorio\Vehiculo\Vehiculo\Vehiculo\x64\Debug\Vehiculo.Form1.resources
+C:\Users\tello\OneDrive\Escritorio\Vehiculo\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.GenerateResource.cache
+C:\Users\tello\OneDrive\Escritorio\Vehiculo\Vehiculo\Vehiculo\x64\Debug\Vehiculo.vcxproj.Up2Date
